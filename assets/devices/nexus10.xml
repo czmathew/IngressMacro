@@ -1,0 +1,23 @@
+<device>
+    <name>Nexus 10</name>
+    <resolution>
+        <width>1600</width>
+        <height>2560</height>
+    </resolution>
+    <clickops>
+        <x>1444</x>
+        <y>167</y>
+    </clickops>
+    <clickselect>
+        <x>880</x>
+        <y>1280</y>
+    </clickselect>
+    <clickdrop>
+        <x>840</x>
+        <y>2320</y>
+    </clickdrop>
+    <clickrecycle>
+        <x>1320</x>
+        <y>2320</y>
+    </clickrecycle>
+</device>

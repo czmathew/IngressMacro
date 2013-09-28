@@ -1,0 +1,23 @@
+<device>
+    <name>Samsung Galaxy S3</name>
+    <resolution>
+        <width>720</width>
+        <height>1280</height>
+    </resolution>
+    <clickops>
+        <x>628</x>
+        <y>93</y>
+    </clickops>
+    <clickselect>
+        <x>384</x>
+        <y>610</y>
+    </clickselect>
+    <clickdrop>
+        <x>350</x>
+        <y>1196</y>
+    </clickdrop>
+    <clickrecycle>
+        <x>550</x>
+        <y>1196</y>
+    </clickrecycle>
+</device>

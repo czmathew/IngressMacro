@@ -1,0 +1,9 @@
+
+-possible to set position for each click
+--from screenshot? select picture
+--or service and when volume up/down hit then records next click on screen
+--button on the screen which starts "recording" of a position 
+----started from service
+-set up delay between each step
+-possible to launch from notification bar
+--launch scripts from not. bar
